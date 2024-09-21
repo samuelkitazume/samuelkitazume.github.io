@@ -4,15 +4,5 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I’m [Samuel Kitazume](https://www.linkedin.com/in/samuel-kitazume), a Senior Frontend Developer with over 10 years of experience building robust, high-performance web applications. Throughout my career, I’ve worked with cutting-edge technologies like Nuxt.js, Vue.js, and React.js, focusing on delivering exceptional user experiences and writing maintainable, scalable code. My passion lies in optimizing web performance, conducting A/B tests to drive data-driven decisions, and ensuring code quality through test automation. This blog is where I share my insights on frontend development, code quality, and the evolving challenges in the software engineering world.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
