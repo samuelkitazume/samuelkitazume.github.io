@@ -1,29 +1,16 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to my blog"
 date:   2024-09-21 14:49:31 -0400
-categories: jekyll update
+categories: blog personal
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+This has been challenging to find time and prioritize a personal blog and portifolio but the time has come!
 
-Jekyll requires blog post files to be named according to the following format:
+The motivation behind this is to speak out about the challenges of the software development industries, focused on Frontend development.
+Over the past 10 years of my career I've worked for 6+ software companies and 8+ digital products. I've developed simple features, such as static websites and landing pages, more complex systems such as a messenger gateway that would centralize messages and chats from multiple channels. I've worked on B2B products and B2C products. I've tried my hand in Product management and System architecture. All that to say that in this multitude of contexts, one thing remained clear: Frontend development is hardly taken seriously. Not only by other fields, but even by other fellow frontend developers.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+Now here I am, to speak up about design patterns, code design, architecture and how all that applies to the frontend.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+If you are interested in all this, stay tuned :)
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+All the best -- Sam
