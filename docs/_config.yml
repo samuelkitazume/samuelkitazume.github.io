@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Sam's Blog
+title: Sam's dev journal
 email: samuel.kitazume@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Samuel Kitazume’s blog dives into the complexities of frontend development,
+  Samuel Kitazume’s dev journal dives into the complexities of frontend development,
   emphasizing the importance of code quality, scalability, and maintainability.
   With over a decade of industry experience, Samuel shares expert insights,
   best practices, and real-world solutions to help developers craft clean,

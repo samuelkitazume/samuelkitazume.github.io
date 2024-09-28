@@ -6,7 +6,7 @@ categories: code frontend
 ---
 
 # Good code is not simple to define
-Recently this has been in my head for just too too long. Am I the only one that feels like there are no consensus on this topic?
+Recently this has been in my head non-stop. Am I the only one that feels like there are no consensus on this topic?
 "Maintainable code is a readable code". Ok, define readable. Readable is subjective. My code is readable for me, yours isn't. Does that mean you code is bad? Not really.
 
 Here's my breakdown of what makes a code readable
